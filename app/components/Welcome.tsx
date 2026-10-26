@@ -61,7 +61,7 @@ export function WelcomePrompt() {
     >
       <form onSubmit={submit} className={`${glass} rounded-[2rem] bg-white/70 p-7 sm:p-9`}>
         <h2 id="welcome-title" className="font-display text-2xl sm:text-3xl">
-          歡迎來到愛文果園
+          歡迎來到陳大哥愛文果園
         </h2>
         <p className="mt-3 text-sm leading-7 text-muted">
           我們直接從果園寄出愛文芒果。先告訴我們怎麼稱呼你吧。
