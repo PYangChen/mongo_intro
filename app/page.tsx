@@ -6,7 +6,7 @@ import { WelcomeLine } from "./components/Welcome";
 const products = [
   {
     name: "家庭箱",
-    spec: "3 台斤｜約 5 – 7 顆",
+    spec: "3 台斤｜約 5 到 7 顆",
     desc: "一家人 3 天吃得完的量，從產地直接寄出。",
     price: 580,
     image: "/images/mango-ai-1.jpg",
